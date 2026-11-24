@@ -1,0 +1,5 @@
+sku,name,category,uom,on_hand,reorder_level,unit_cost
+RM-010,Polymer Resin,Raw Material,kg,500,150,64.5
+RM-011,Additive D,Raw Material,kg,80,100,32
+PK-010,Carton Box,Packaging,pcs,1500,500,4.25
+FG-010,Finished Product Gamma,Finished Good,unit,125,100,96
